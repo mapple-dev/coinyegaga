@@ -1,8 +1,9 @@
-# Mycoin 
+# CoinyeGaga
 
 
 ## What is CoinyeGaga? - Such coin
 Mycoin is like Bitcoin, but based on Litecoin, and also much more cooler.
+It's build for Gaga fans from a Gaga fan
 
 
 ## License - Much license
@@ -16,12 +17,12 @@ their feature or bug fix is ready.
 ## Very Much Frequently Asked Questions
 
 ### How much CLG can exist?
-Total of 64,000,000 much coins ( 6.4 my birth day yeah )
+Total of 86,000,000 much coins (  her birth year yeah )
 
 ### How get CLG?
 Scrypt Proof of Work
 
-64 Coins per block
+28 Coins per block ( Gaga's birth day ulala )
 
 
 
@@ -38,7 +39,7 @@ Scrypt Proof of Work
 
 	cd src/
 	make -f makefile.unix USE_UPNP=-
-	./coinyegagad -connect=mapple-coinyegaga.zapto.org ( you need to post your ip at twitter @MappleDev that we add a new Peer in our System that 								later the coin connect automatic to peers) 
+	./coinyegagad -connect=mapple-coinyegaga.zapto.org ( you need to post your ip at twitter @MappleDev with the tag gaga that we add a new Peer in our System that later the coin connect automatic to peers) 
 
 
 
